@@ -81,7 +81,10 @@ RegisterNumber:
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/118706984/235107528-40d50d54-ee4c-483f-85f6-83b400f7aac1.png)
+![image](https://github.com/naren2704/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118706984/707fa28c-6bb8-4b68-8070-dfdcff621568)
+
+![image](https://github.com/naren2704/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118706984/60491669-d95a-44ea-b616-a89f79792b17)
+
 
 
 
