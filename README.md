@@ -73,20 +73,49 @@ plt.xlabel("AGE")
 plt.ylabel("ESTIMATED SALARY")
 plt.legend()
 plt.show()
-/*
-Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: 
-RegisterNumber:  
-*/
+
 ```
 
 ## Output:
-![image](https://github.com/naren2704/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118706984/707fa28c-6bb8-4b68-8070-dfdcff621568)
 
-![image](https://github.com/naren2704/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118706984/60491669-d95a-44ea-b616-a89f79792b17)
+## Array value of X:
+![image](https://github.com/naren2704/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118706984/07095163-b544-43b3-a191-507a5523fb54)
 
+## Array value of Y:
 
+![image](https://github.com/naren2704/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118706984/09f1d530-3de6-4327-a2cd-ad86d7567459)
 
+## Exam 1-Score graph:
+
+![image](https://github.com/naren2704/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118706984/1781f6d0-4a51-4c14-b4d3-aa636141d560)
+
+## Sigmoid function graph:
+
+![image](https://github.com/naren2704/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118706984/6d527373-3706-41b9-8d33-23446ce8fcea)
+
+## X_Train_grad value:
+
+![image](https://github.com/naren2704/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118706984/d35c1a40-61a1-4427-94ee-d34b0988b7cf)
+
+## Y_Train_grad value:
+
+![image](https://github.com/naren2704/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118706984/70e033c9-a6ee-4da3-8ec0-943544dcc960)
+
+## Print res.X:
+
+![image](https://github.com/naren2704/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118706984/1b3bd626-5094-4c35-b108-dc37ff112cc2)
+
+## Decision boundary-gragh for exam score:
+
+![image](https://github.com/naren2704/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118706984/f444a5fd-d474-41e3-badc-26a482c6db11)
+
+## Probability value:
+
+![image](https://github.com/naren2704/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118706984/80ebddd9-90ac-446f-a3b6-982b39c8f870)
+
+## Prediction value of mean:
+
+![image](https://github.com/naren2704/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118706984/cab1733e-59bf-462d-b034-d74562a569d0)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
